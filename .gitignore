@@ -1,0 +1,6 @@
+CompressedDataset.zip
+Dataset/*
+results/*
+reports/*
+trees/*
+output.txt
